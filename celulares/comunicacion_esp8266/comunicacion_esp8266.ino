@@ -20,8 +20,8 @@
 
 
 SoftwareSerial ss(2, 3); // RX 4, TX
-const char *ssid = "Fibertel WiFi173";
-const char *password = "0042864424";
+const char *ssid = "red wifi";
+const char *password = "password";
 
 
 //String url = "http://jkuuijyjuig.sa.ngrok.io";
